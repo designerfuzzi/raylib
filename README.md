@@ -4,8 +4,6 @@
 
 raylib is highly inspired by Borland BGI graphics lib and by XNA framework and it's especially well suited for prototyping, tooling, graphical applications, embedded systems and education.
 
-*NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no debug button... just coding in the most pure spartan-programmers way.*
-
 Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 
 ---
@@ -19,8 +17,6 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 [![Packaging Status](https://repology.org/badge/tiny-repos/raylib.svg)](https://repology.org/project/raylib/versions)
 [![License](https://img.shields.io/badge/license-zlib%2Flibpng-blue.svg)](LICENSE)
 
-[![Discord Members](https://img.shields.io/discord/426912293134270465.svg?label=Discord&logo=discord)](https://discord.gg/raylib)
-[![Subreddit Subscribers](https://img.shields.io/reddit/subreddit-subscribers/raylib?label=reddit%20r%2Fraylib&logo=reddit)](https://www.reddit.com/r/raylib/)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WIBkhYb5sBNqXO1mZ7WSQ?style=flat&label=Youtube&logo=youtube)](https://www.youtube.com/c/raylib)
 [![Twitch Status](https://img.shields.io/twitch/status/raysan5?style=flat&label=Twitch&logo=twitch)](https://www.twitch.tv/raysan5)
 
@@ -125,22 +121,10 @@ Some additional documentation about raylib design can be found in [raylib GitHub
 contact and networks
 ---------------------
 
-raylib is present in several networks and raylib community is growing everyday. If you are using raylib and enjoying it, feel free to join us in any of these networks. The most active network is our [Discord server](https://discord.gg/raylib)! :)
+raylib is present in several networks and raylib community is growing everyday. If you are using raylib and enjoying it, feel free to join us in any of these networks. 
 
  - Webpage: [https://www.raylib.com](https://www.raylib.com)
- - Discord: [https://discord.gg/raylib](https://discord.gg/raylib)
- - Twitter: [https://www.twitter.com/raysan5](https://www.twitter.com/raysan5)
- - Twitch:  [https://www.twitch.tv/raysan5](https://www.twitch.tv/raysan5)
- - Reddit:  [https://www.reddit.com/r/raylib](https://www.reddit.com/r/raylib)
- - Patreon: [https://www.patreon.com/raylib](https://www.patreon.com/raylib)
  - YouTube: [https://www.youtube.com/channel/raylib](https://www.youtube.com/c/raylib)
-
-contributors
-------------
-
-<a href="https://github.com/raysan5/raylib/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=raysan5/raylib&max=500&columns=20&anon=1" />
-</a>
 
 license
 -------
