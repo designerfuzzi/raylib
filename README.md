@@ -16,7 +16,6 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 [![License](https://img.shields.io/badge/license-zlib%2Flibpng-blue.svg)](LICENSE)
 
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WIBkhYb5sBNqXO1mZ7WSQ?style=flat&label=Youtube&logo=youtube)](https://www.youtube.com/c/raylib)
-[![Twitch Status](https://img.shields.io/twitch/status/raysan5?style=flat&label=Twitch&logo=twitch)](https://www.twitch.tv/raysan5)
 
 [![Windows](https://github.com/raysan5/raylib/workflows/Windows/badge.svg)](https://github.com/raysan5/raylib/actions?query=workflow%3AWindows)
 [![Linux](https://github.com/raysan5/raylib/workflows/Linux/badge.svg)](https://github.com/raysan5/raylib/actions?query=workflow%3ALinux)
